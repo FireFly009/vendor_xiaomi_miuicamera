@@ -3,7 +3,7 @@
 ### Cloning :
 • Clone this repo in vendor/xiaomi/miuicamera in your working directory by :
 ```
-git clone https://github.com/SonalSingh18/vendor_xiaomi_miuicamera.git -b thirteen vendor/xiaomi/miuicamera
+git clone https://github.com/FireFly009/vendor_xiaomi_miuicamera.git -b master vendor/xiaomi/miuicamera
 ```
 ### Changes Required :
 • You will need following changes in your device tree:
